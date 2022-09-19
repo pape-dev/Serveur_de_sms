@@ -1,0 +1,26 @@
+body{
+    background-color: azure;
+    text-align: center;  
+}
+
+label{
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    color: #070606;
+    font-weight: bolder;
+    font-size:20px;
+    font-family: 'frozen';    
+}
+
+textarea{
+    font-family: 'frozen';
+}
+  
+  /* Importation de la police */
+  
+@font-face {
+      font-family:'frozen'; 
+      src:url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/209981/Ice%20kingdom%20-%20Bold%20-%20Por%20Kustren.woff');
+}
+  
